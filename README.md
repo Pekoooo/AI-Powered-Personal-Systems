@@ -1,7 +1,7 @@
 # AI-Powered Personal Coaching System
 **Prompt Engineering | MCP Integration | Multi-Database Coordination**
 
-A production-grade AI coaching system built with Claude AI, demonstrating advanced prompt engineering, database integration via Model Context Protocol (MCP), and real-time state management across multiple Notion databases.
+AI coaching system built with Claude AI, demonstrating prompt engineering, database integration via Model Context Protocol (MCP), and real-time state management across multiple Notion databases.
 ##  System In Action
 
 ### Automated Meal Logging & Real-Time Visualization
