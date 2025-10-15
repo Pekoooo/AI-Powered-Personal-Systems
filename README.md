@@ -5,28 +5,28 @@ A production-grade AI coaching system built with Claude AI, demonstrating advanc
 ##  System In Action
 
 ### Automated Meal Logging & Real-Time Visualization
-<img src="./Screenshot 2025-10-15 142149.png" alt="Meal Logging with ASCII Progress" width="600"/>
+<img src="./Screenshots/Screenshot 2025-10-15 142149.png" alt="Meal Logging with ASCII Progress" width="600"/>
 
 Query database → Calculate macros (auto-include cooking oil) → Generate ASCII progress → Offer Notion logging
 
 ---
 
 ### Screenshot-Based Database Entry
-<img src="./Screenshot 2025-10-15 142306.png" alt="Adding Food via Screenshot" width="600"/>
+<img src="./Screenshots/Screenshot 2025-10-15 142306.png" alt="Adding Food via Screenshot" width="600"/>
 
 Extract nutrition data from image → Confirm product → Add to database (not consumption log)
 
 ---
 
 ### Nutrition Database (Food Library)
-<img src="./Screenshot 2025-10-15 142639.png" alt="Notion Nutrition Database" width="600"/>
+<img src="./Screenshots/Screenshot 2025-10-15 142639.png" alt="Notion Nutrition Database" width="600"/>
 
 100+ foods with complete nutritional profiles, queried before every calculation
 
 ---
 
 ### Daily Meal Log Database
-<img src="./Screenshot 2025-10-15 142735.png" alt="Notion Meal Log Database" width="600"/>
+<img src="./Screenshots/Screenshot 2025-10-15 142735.png" alt="Notion Meal Log Database" width="600"/>
 
 Combined meal entries with totals, ingredient breakdowns, and goal tracking
 
