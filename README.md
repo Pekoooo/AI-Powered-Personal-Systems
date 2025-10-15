@@ -2,6 +2,12 @@
 **Prompt Engineering | MCP Integration | Multi-Database Coordination**
 
 A production-grade AI coaching system built with Claude AI, demonstrating advanced prompt engineering, database integration via Model Context Protocol (MCP), and real-time state management across multiple Notion databases.
+## Features
+
+<p align="center">
+  <img src="./Screenshot 2025-10-15 142149.png" width="400"/>
+  <img src="./Screenshot 2025-10-15 142306.png" width="400"/>
+</p>
 
 ##  Project Overview
 
